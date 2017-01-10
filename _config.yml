@@ -1,0 +1,27 @@
+typography_spectrum: 0.5
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+github: true
+layout_spectrum: 0.5
+name: betitworks
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+content: []
+purpose:
+  - type: contact
+    url: 'tel:9989898989'
+    label: Call 9989898989
